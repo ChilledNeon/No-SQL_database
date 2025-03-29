@@ -1,0 +1,2 @@
+This is a REST API that uses MongoDB. So, to get this to work, you will need to download MongoBD. Next, this project utilized python imports, not from Pythons standard library. You will need to install pymongo, pydynamic, fastapi, aand bson
+The Pip installs for these are: pip install pymongo fastapi pydantic. Bson does get installed automatically when installing pymongo, but if it doesn't you can install it using pip install bson
